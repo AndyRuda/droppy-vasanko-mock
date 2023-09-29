@@ -1,0 +1,110 @@
+{
+  "name": "files",
+  "type": "folder",
+  "content": [
+      {
+          "name": "dev",
+          "type": "folder",
+          "content": [
+              {
+                  "name": "python",
+                  "type": "folder",
+                  "content": [
+                      {
+                          "name": "scripts",
+                          "type": "folder",
+                          "content": [
+                              {
+                                  "name": "script1.py",
+                                  "type": "file",
+                                  "content": "Contenido del archivo python/scripts/script1.py",
+                                  "modified": "2020-09-13",
+                                  "size": 50,
+                                  "extension": ".py",
+                                  "URL": "/folder/dev/python/scripts/script1.py"
+                              },
+                              {
+                                  "name": "script2.py",
+                                  "type": "file",
+                                  "content": "Contenido del archivo python/scripts/script2.py",
+                                  "modified": "2022-02-13",
+                                  "size": 60,
+                                  "extension": ".py"
+                              }
+                          ],
+                          "size": 110,
+                          "modified": "2020-02-16",
+                          "URL": "/folder/dev/python/scripts"
+                      }
+                  ],
+                  "size": 110,
+                  "modified": "2022-01-29",
+                  "URL": "/folder/dev/python"
+              },
+              {
+                  "name": "javascript",
+                  "type": "folder",
+                  "content": [
+                      {
+                          "name": "app.js",
+                          "type": "file",
+                          "content": "Contenido del archivo javascript/app.js",
+                          "modified": "2020-09-04",
+                          "size": 70,
+                          "extension": ".js"
+                      }
+                  ],
+                  "size": 70,
+                  "modified": "2021-08-26",
+                  "URL": "/folder/dev/javascript"
+              }
+          ],
+          "size": 180,
+          "modified": "2022-08-10",
+          "URL": "/folder/dev"
+      },
+      {
+          "name": "Games",
+          "type": "folder",
+          "content": [
+              {
+                  "name": "game1",
+                  "type": "folder",
+                  "content": [
+                      {
+                          "name": "game1.exe",
+                          "type": "file",
+                          "content": "Contenido del archivo Games/game1/game1.exe",
+                          "modified": "2020-02-26",
+                          "size": 80,
+                          "extension": ".exe"
+                      }
+                  ],
+                  "size": 80,
+                  "modified": "2021-09-17"
+              },
+              {
+                  "name": "game2",
+                  "type": "folder",
+                  "content": [
+                      {
+                          "name": "game2.exe",
+                          "type": "file",
+                          "content": "Contenido del archivo Games/game2/game2.exe",
+                          "modified": "2021-04-29",
+                          "size": 90,
+                          "extension": ".exe"
+                      }
+                  ],
+                  "size": 90,
+                  "modified": "2021-10-07"
+              }
+          ],
+          "size": 170,
+          "modified": "2023-06-17"
+      }
+  ],
+  "size": 350,
+  "modified": "2022-04-30",
+  "URL": "/"
+}
